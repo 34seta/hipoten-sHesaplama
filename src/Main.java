@@ -14,5 +14,6 @@ public class Main {
 
         c=Math.sqrt(a*a+b*b);
         System.out.println("Hipotenüs= "+ c);
+        System.out.println("Ucgenin Hipotenüsü a2+b2=c2 : "+c);
     }
 }
